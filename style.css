@@ -58,7 +58,7 @@ header .icon{
     margin-top: 1px;
 }
 .container-1 .image{
-    background-image: url(/images/7-up.webp);
+    background-image: url(./images/7-up.webp);
     width:auto;
     height:100vh;
     background-size: cover;
@@ -85,7 +85,7 @@ header .icon{
     color: rgb(255, 255, 255);
 }
 .container-2 .image-2{
-    background-image: url(/images/7-up2.webp);
+    background-image: url(./images/7-up2.webp);
     width:auto;
     height:100vh;
     background-size: cover;
